@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YokoScroll", "Assembly-CSharp.csproj", "{2A4C13BE-E2B8-37B6-35CE-A194622AC2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YokoScroll", "Assembly-CSharp-firstpass.csproj", "{1514F19A-5288-F95E-FEAC-879E523F15C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YokoScroll", "Assembly-CSharp-Editor-firstpass.csproj", "{2A5166C0-885D-1654-D513-0B601F83BBA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4C13BE-E2B8-37B6-35CE-A194622AC2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4C13BE-E2B8-37B6-35CE-A194622AC2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4C13BE-E2B8-37B6-35CE-A194622AC2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4C13BE-E2B8-37B6-35CE-A194622AC2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1514F19A-5288-F95E-FEAC-879E523F15C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1514F19A-5288-F95E-FEAC-879E523F15C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1514F19A-5288-F95E-FEAC-879E523F15C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1514F19A-5288-F95E-FEAC-879E523F15C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5166C0-885D-1654-D513-0B601F83BBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5166C0-885D-1654-D513-0B601F83BBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5166C0-885D-1654-D513-0B601F83BBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5166C0-885D-1654-D513-0B601F83BBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

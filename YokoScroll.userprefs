@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MaxController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MaxController.cs" Line="345" Column="18" />
+      <File FileName="Assets/Resources/StageInfo.csv" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Spider.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/alienController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Apple.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/staticEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShotEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AppleController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/movefloorz.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AspectRatioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DataManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveFloorY.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ClearScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Apple2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Max2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Horse.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HorseController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Horse2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/csvManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
