@@ -1,6 +1,6 @@
 stageId,highScore,best_time,isCleared,allAppleCount,allEnemyCount,allBoxCount,playCount
-1,0,99999,0,53,4,4,0
-2,0,99999,0,54,18,18,0
+1,0,99999,0,53,4,4,41
+2,0,99999,0,54,18,18,3
 3,0,99999,0,97,5,12,0
 4,0,99999,0,0,1,0,0
 5,0,99999,0,50,5,5,0

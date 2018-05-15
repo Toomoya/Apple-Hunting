@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.Advertisements;
 
 public class MaxController : MonoBehaviour
 {
@@ -18,6 +19,7 @@ public class MaxController : MonoBehaviour
 	public Text appleText;
 	public Text deathMessage;
 
+	float isAd;
 
 	public AudioClip Bomber;
 	public AudioClip dead;
@@ -52,6 +54,7 @@ public class MaxController : MonoBehaviour
 		
 		dataManager = GameObject.Find ("DataManager").GetComponent<DataManager> ();
 		appleText.text = "0";
+		isAd = Random.Range (-10, 10);
 		animator = this.gameObject.GetComponent<Animator> ();
 		rigidbody = this.gameObject.GetComponent<Rigidbody> ();
 		audioSource = this.gameObject.GetComponent<AudioSource> ();
@@ -249,6 +252,10 @@ public class MaxController : MonoBehaviour
 		Invoke ("Restart", 2.0f);
 	}
 	void Restart(){
+		//Debug.Log (isAd);
+		if (isAd > 0) {
+			Advertisement.Show ();
+		}
 		SceneManager.LoadScene ("Stage" + dataManager.selectedStageId.ToString ());
 	}
 
