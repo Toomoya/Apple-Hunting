@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple-Hunting", "Assembly-CSharp.csproj", "{A0649761-5637-4127-C94A-A1ADBABD6D0E}"
+EndProject
+Project("{770FC469-B922-7C7E-CA8F-B30F07A2B713}") = "Apple-Hunting", "Assembly-UnityScript.unityproj", "{FC322C70-EE57-7011-2A81-552E67523A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple-Hunting", "Assembly-CSharp-Editor.csproj", "{8AC55038-E8E9-5FDB-9725-663A03156558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0649761-5637-4127-C94A-A1ADBABD6D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0649761-5637-4127-C94A-A1ADBABD6D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0649761-5637-4127-C94A-A1ADBABD6D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0649761-5637-4127-C94A-A1ADBABD6D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC322C70-EE57-7011-2A81-552E67523A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC322C70-EE57-7011-2A81-552E67523A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC322C70-EE57-7011-2A81-552E67523A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC322C70-EE57-7011-2A81-552E67523A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC55038-E8E9-5FDB-9725-663A03156558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC55038-E8E9-5FDB-9725-663A03156558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC55038-E8E9-5FDB-9725-663A03156558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC55038-E8E9-5FDB-9725-663A03156558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
